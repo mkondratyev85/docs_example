@@ -1,0 +1,9 @@
+README.md
+setup.py
+SampleModule/__init__.py
+SampleModule/data_download.py
+SampleModule/module.py
+SampleModule.egg-info/PKG-INFO
+SampleModule.egg-info/SOURCES.txt
+SampleModule.egg-info/dependency_links.txt
+SampleModule.egg-info/top_level.txt

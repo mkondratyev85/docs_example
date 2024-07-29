@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: SampleModule
+Version: 0.1.0
+Summary: An example package
+Home-page: https://github.com/sphinx-gallery/sample-project
+Author: <Author>
+Author-email: abc@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
